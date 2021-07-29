@@ -2,7 +2,7 @@
 # Manuscript title: ". “Larger territories reduce mortality risk for chimpanzees, wolves, and agents: multiple lines of evidence in a model validation framework"
 # Manuscript authors: Kristin N. Crouse, Nisarg P. Desai, Kira A. Cassidy, Erin E. Stahler, Clarence L. Lehman, and Michael L. Wilson
 # Code author: Nisarg Desai, desai054[at]umn[dot]edu
-# Last update: July 24, 2020
+# Last update: July 24, 2021
 
 rm(list = ls())
 setwd("Directory containing S2_Lethal_Geometry_data.csv and S3_chimp_intergroup_victims.txt")
